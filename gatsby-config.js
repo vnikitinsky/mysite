@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
-    siteTitle: `Minimal Blog`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteTitle: `vnikitinsky`,
+    siteTitleAlt: `Блог Никитинского`,
+    siteHeadline: `Блог Владимира Никитинского`,
+    siteUrl: `https://vnikitinsky.gatsbyjs.io/`,
+    siteDescription: `Блог о маркетинге, UX, CX и разработке продуктов в B2B`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@vnikitinsky`,
   },
   plugins: [
     {
@@ -23,22 +23,26 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
+            title: `Блог`,
             slug: `/blog`,
           },
           {
-            title: `About`,
+            title: `Проекты`,
+            slug: `/projects`,
+          },
+          {
+            title: `Обо мне`,
             slug: `/about`,
           },
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
+            name: `Facebook`,
+            url: `https://www.facebook.com/vnikitinsky/`,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: `Medium`,
+            url: `https://vnikitinsky.medium.com/`,
           },
         ],
       },
