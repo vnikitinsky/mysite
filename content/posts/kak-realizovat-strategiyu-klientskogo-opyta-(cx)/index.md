@@ -1,7 +1,7 @@
 ---
 title: "Как реализовать стратегию клиентского опыта (CX)"
 description: "В условиях быстрого развития рынков, изменения поведения потребителей и появления новых технологий никогда еще не уделялось такого внимания…"
-date: "2022-04-17T20:18:36.757Z"
+date: "2022-04-17"
 categories: []
 published: true
 canonical_link: https://medium.com/@vnikitinsky/%D0%BA%D0%B0%D0%BA-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D1%8E-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-%D0%BE%D0%BF%D1%8B%D1%82%D0%B0-cx-175c756ae859
