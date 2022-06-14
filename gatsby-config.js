@@ -35,7 +35,7 @@ module.exports = {
           },
           {
             title: `Проекты`,
-            slug: `/tags/analytics`,
+            slug: `/tags/проекты`,
           },
           {
             title: `Обо мне`,
